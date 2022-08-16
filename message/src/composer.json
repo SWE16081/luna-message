@@ -1,0 +1,17 @@
+{
+    "name": "luna/message",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Luna\\Message\\": "luna/message/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "felix.xi"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
