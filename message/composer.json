@@ -12,6 +12,8 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.3"
+        "guzzlehttp/guzzle": "^7.3",
+        "alibabacloud/client": "^1.5",
+        "tencentcloud/tencentcloud-sdk-php": "^3.0"
     }
 }
