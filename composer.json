@@ -1,5 +1,5 @@
 {
-    "name": "luna/message",
+    "name": "luna2/message",
     "autoload": {
         "psr-4": {
             "App\\": "app/",
