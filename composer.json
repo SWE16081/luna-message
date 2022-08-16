@@ -18,7 +18,7 @@
 "extra": {
     "laravel": {
         "providers": [
-            " Luna\\Message\\MessageServiceProvider"
+            "Luna\\Message\\MessageServiceProvider"
         ],
         "aliases": {
             "Message":"Luna\\Message\\facades\\Message"
