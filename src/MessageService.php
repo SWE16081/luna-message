@@ -27,4 +27,8 @@ class MessageService
 //       }
        return $this->success('发送成功', $res);
     }
+
+    public function test(){
+        return 121;
+    }
 }
